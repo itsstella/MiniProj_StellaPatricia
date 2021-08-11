@@ -1,0 +1,6 @@
+framework module Pods_NostraTest_StellaTests {
+  umbrella header "Pods-NostraTest_StellaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
